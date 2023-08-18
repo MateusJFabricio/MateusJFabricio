@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MateusJFabricio
 - 👀 I’m interested in Industrial Automation
-- 🌱 I’m currently learning Industrial Virtualization
-- 💞️ I’m looking to collaborate on Virtualization Softwares for Industries
+- 🌱 I’m currently learning React JS
+- 💞️ I’ve been developing a music player using React JS
 - 📫 How to reach me -> fabriciomateus05@gmail.com
 
 <!---
