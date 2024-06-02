@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MateusJFabricio
-- 👀 I’m interested in Industrial Automation
-- 🌱 I’m currently learning React JS
-- 💞️ I’ve been developing a music player using React JS
+- 👀 I’m interested in Industrial Automation and Controls
+- 🌱 I’m currently learning Robotics
+- 💞️ I've developed an software to make navigation path to Autonomous Robots
 - 📫 How to reach me -> fabriciomateus05@gmail.com
 
 <!---
